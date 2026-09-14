@@ -1,2 +1,2 @@
 # 2DWORM
-Lightweight member of the Desert Worm (D-WORM) family: a single HTML page for chemical drawing with a 3D viewer, ChemDraw import/export, publication-ready images and shareable links / QR codes. Everything runs in the browser; the optional sharing service is the only server-side part.
+2D-WORM is the browser-native, install-free program for chemists, biochemists and materials scientists — bridging the gap between atomic drawings, biological structures and crystalline materials. Build, read and edit molecular and periodic geometry, inspect orbitals and densities, sketch in 2D, and hand the result straight to your solver — from a laptop, a tablet, a phone, or an immersive Virtual Reality (VR).
